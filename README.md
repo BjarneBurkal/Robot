@@ -1,4 +1,4 @@
 # Robot
-Code for a small driving robo
+Code for a small driving robot
 
-This is first revision of the readme
+
